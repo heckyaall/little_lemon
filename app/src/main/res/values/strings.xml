@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Capstone Little Lemon App</string>
+    <string name="app_name">Little Lemon</string>
     <string name="first_name">First Name</string>
     <string name="last_name">Last Name</string>
-    <string name="email">johndoe@gmail.com</string>
-    <string name="search">Enter Search Phrase</string>
+    <string name="email">Email Address</string>
+    <string name="search">Search For Items</string>
     <string name="register">Register</string>
     <string name="logout">Log Out</string>
 

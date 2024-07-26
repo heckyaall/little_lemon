@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.smartherd.capstonelittlelemonapp"
+    namespace = "com.courseapp.littlelemonforyou"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.smartherd.capstonelittlelemonapp"
+        applicationId = "com.courseapp.littlelemonforyou"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
